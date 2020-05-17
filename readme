@@ -1,0 +1,2 @@
+Sourcedata : https://services5.arcgis.com/VS6HdKS0VfIhv8Ct/ArcGIS/rest/services/Statistik_Harian_per_Provinsi_COVID19_Indonesia_Rev/FeatureServer
+Process : Data source original bersifat online namun dalam aplikasi ini masih dibuat menjadi offline (convert json to geojson), karena dalam proses input data dibutuhkan koordinat lat lon 
